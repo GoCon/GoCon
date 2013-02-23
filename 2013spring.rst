@@ -134,6 +134,17 @@ GAE/Goに関する何か（仮）
 
 ガイアがモテているGoユーザにもっと輝けと囁いている（仮）
 
+@derekcollison (introduced by @yssk22)
+---------------------------------------
+
+Case study of Apcera (draft)
+
+* the overview of PaaS product in Go
+* why decided to use Go and how about other candidates.
+* what could be resolved with Go, what could not.
+* recommendations for whom to try to use Go in production systems.
+
+参考: http://gigaom.com/2012/09/13/will-go-be-the-new-go-to-programming-language/
 
 何もかも未定。発表者大募集中です。（Pull Requestにて受け付けます）
 
