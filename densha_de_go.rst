@@ -87,3 +87,4 @@
 * yamashiro
 * tenntenn
 * tagomoris
+* shiumachi (A Tour of Go やる予定)
