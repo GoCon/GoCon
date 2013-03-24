@@ -26,8 +26,9 @@
 * 毎月4の付く日は巣鴨の縁日のため回避
 
 （参考）
-- http://www.kotsu.metro.tokyo.jp/toden/kanren/kashikiri.html
-- http://www.excite.co.jp/News/bit/00091119958074.html
+
+* http://www.kotsu.metro.tokyo.jp/toden/kanren/kashikiri.html
+* http://www.excite.co.jp/News/bit/00091119958074.html
 
 
 会場
