@@ -157,6 +157,11 @@ Case study of Apcera (draft)
 
 参考: http://gigaom.com/2012/09/13/will-go-be-the-new-go-to-programming-language/
 
+@methane
+---------
+
+GOMAXPROCS の基礎
+
 何もかも未定。発表者大募集中です。（Pull Requestにて受け付けます）
 
 懇親会
