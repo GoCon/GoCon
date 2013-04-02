@@ -90,3 +90,4 @@
 * shiumachi (A Tour of Go やる予定)
 * kuenishi (家族を連れてくるかもしれｍ
 * hajimehoshi
+* tokibito
