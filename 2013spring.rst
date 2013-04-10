@@ -83,7 +83,7 @@ http://connpass.com/event/1906/
 ----------------------
 
 :ロゴ作成: @atusi
-:受付: @nuki_pon
+:受付: @nuki_pon, @RicoImazu
 
 なにかしら人手が必要になった時にお手伝いいただけたら嬉しいです。
 
