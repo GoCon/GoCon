@@ -128,7 +128,7 @@ Go言語で作るWebアプリ
 @Jxck_
 ------
 
-SPDYに関する何か（仮）
+Goroutine/Channel で並行処理
 
 @najeira
 --------
