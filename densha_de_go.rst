@@ -94,3 +94,4 @@
 * kuenishi (家族を連れてくるかもしれｍ
 * hajimehoshi
 * tokibito
+* futoase
