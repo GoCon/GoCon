@@ -93,7 +93,7 @@
 * shiumachi (A Tour of Go やる予定)
 * kuenishi (家族を連れてくるかもしれｍ
 * tokibito
-* futoase
+* futoase + 1
 
 キャンセル
 ----------
