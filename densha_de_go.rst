@@ -98,6 +98,7 @@
 * cocoatomo (3歳の娘を連れていきます)
 * nuki_pon
 * curious-eyes
+* manji0112
 
 キャンセル
 ----------
