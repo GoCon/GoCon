@@ -101,7 +101,8 @@ Lightning Talk
 @esehara
 --------
 
-### Goで作る言語処理系周りのお話
+Goで作る言語処理系周りのお話
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 つい最近、「プログラミング言語ってどうやって処理しているんだろう」ということが気になりはじめています。
 そのあたりを理解するためには、やっぱり自分で言語を作ってみるのが一番いいかなと思いました。
@@ -110,18 +111,19 @@ Lightning Talk
 
 「Goがあるじゃないか」
 
-### 参考資料
+参考資料
+~~~~~~~~
 
 - `Go Package/text/scanner`_ : 標準パッケージの解析器
 - `go yacc`_ : go toolで使用できるGo用のYacc
 - Ragel_ : Goに対応したState Machine Compiler
 - Perid_ : 試実装
 
-... _Go Package/text/scanner: http://golang.org/pkg/text/scanner/
-... _go yacc: http://golang.org/cmd/yacc/
-... _AltJS: http://altjs.org/
-... _Ragel: http://www.complang.org/ragel/ 
-... _Perid: https://github.com/esehara/Perid
+.. _Go Package/text/scanner: http://golang.org/pkg/text/scanner/
+.. _go yacc: http://golang.org/cmd/yacc/
+.. _AltJS: http://altjs.org/
+.. _Ragel: http://www.complang.org/ragel/ 
+.. _Perid: https://github.com/esehara/Perid
 
 プレゼン
 ========
