@@ -46,12 +46,13 @@ http://connpass.com/event/3510/
 入館登録
 --------
 
-https://docs.google.com/forms/d/1bxt2disDCEkGcnvtVKAAaqEQt1Pik-9clL4dM90EYcg/viewform
+http://goo.gl/8bu1zN
 
 受付
 ----
 
-なるべく運営が楽な感じでやります。
+なるべく運営が楽な感じでやります。上の入館登録を事前にされていない場合は
+入館ゲート前で次のURLのフォームを必ず入力して頂きます。
 
 遅刻
 ----
