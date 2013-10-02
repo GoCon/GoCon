@@ -154,9 +154,14 @@ TBA
 HTTP2.0
 
 @tenntenn
-------
+---------
 
 TBA
+
+@stanaka
+--------
+
+Goで作る軽量RESTサーバー
 
 Andrew Gerrand
 --------------
