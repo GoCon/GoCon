@@ -174,7 +174,7 @@ Goで作る軽量RESTサーバー
 @rosylilly
 ----------
 
-gondlerの話（タイトル仮）
+『命短シ恋セヨ乙女 / Gondler の唄』
 
 http://rosylilly.hatenablog.com/entry/2013/09/29/035023
 
