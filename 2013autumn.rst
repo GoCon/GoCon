@@ -171,6 +171,11 @@ TBA
 
 Goで作る軽量RESTサーバー
 
+@rosylilly
+----------
+
+gondlerの話（タイトル仮）
+
 Andrew Gerrand
 --------------
 
