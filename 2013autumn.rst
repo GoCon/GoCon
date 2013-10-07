@@ -176,6 +176,8 @@ Goで作る軽量RESTサーバー
 
 gondlerの話（タイトル仮）
 
+http://rosylilly.hatenablog.com/entry/2013/09/29/035023
+
 Andrew Gerrand
 --------------
 
