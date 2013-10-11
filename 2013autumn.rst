@@ -201,6 +201,11 @@ Goで作る軽量RESTサーバー
 
 http://rosylilly.hatenablog.com/entry/2013/09/29/035023
 
+@moriyoshit
+-----------
+
+Goですべらない話(仮)
+
 Andrew Gerrand
 --------------
 
