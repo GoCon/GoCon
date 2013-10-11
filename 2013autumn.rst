@@ -132,11 +132,6 @@ Goで作る言語処理系周りのお話
 
 「Goがあるじゃないか」
 
-@nuki_pon
----------
-
-植木とGo(仮)
-
 参考資料
 ~~~~~~~~
 
@@ -150,6 +145,11 @@ Goで作る言語処理系周りのお話
 .. _AltJS: http://altjs.org/
 .. _Ragel: http://www.complang.org/ragel/ 
 .. _Perid: https://github.com/esehara/Perid
+
+@nuki_pon
+---------
+
+植木とGo(仮)
 
 プレゼン
 ========
