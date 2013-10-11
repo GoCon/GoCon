@@ -99,11 +99,20 @@ http://goo.gl/8bu1zN
 ハンズオン
 ==========
 
-GAE/GO
+GAE/Go
 ------
 
 :講師: @najeira
 :レベル: 初級〜中級
+
+各自でGAE/Goのチュートリアルや Getting Started などをやり、
+分からないことがあれば @najeira に質問してください。
+
+公式のチュートリアルに限らず、何をやってもOKです。
+出来る範囲で @najeira が回答します。
+
+GAE/Goで単体テストをするための testbed パッケージについて、簡単に説明するかも。
+
 
 Lightning Talk
 ==============
