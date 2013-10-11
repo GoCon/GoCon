@@ -102,8 +102,8 @@ http://goo.gl/8bu1zN
 GAE/GO
 ------
 
-:講師:@najeira
-:レベル:初級〜中級
+:講師: @najeira
+:レベル: 初級〜中級
 
 Lightning Talk
 ==============
