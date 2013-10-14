@@ -166,10 +166,10 @@ TBA
 
 Go言語のスタックとヒープの使い方
 
-@Jxck_
+@Jxck
 ------
 
-HTTP2.0
+network server in Go
 
 @tenntenn
 ---------
