@@ -124,6 +124,12 @@ Martiniの話（仮）
 
 n百万人をGoで捌いてみた（仮）
 
+
+@rosylilly
+----------
+
+golang on production（仮）
+
 懇親会
 ------
 
