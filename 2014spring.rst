@@ -1,5 +1,5 @@
 ===========================
- Go Conference 2013 autumn
+ Go Conference 2014 spring
 ===========================
 
 ³µÍ×
