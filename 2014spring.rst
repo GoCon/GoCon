@@ -120,4 +120,7 @@ Lightning Talk
 
 プロダクション環境でGoを投入した話（仮）
 
+@_yosssi
+--------
 
+Martiniの話（仮）
