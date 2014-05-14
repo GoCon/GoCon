@@ -130,6 +130,11 @@ n百万人をGoで捌いてみた（仮）
 
 golang on production（仮）
 
+@plan9user
+----------
+
+Go駆動開発で超速Pushエンジンを作った話
+
 懇親会
 ------
 
