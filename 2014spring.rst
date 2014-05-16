@@ -98,6 +98,8 @@ http://connpass.com/event/6370/
 ========
 
 キーノート以外は一人15-20分程度を考えていますが、柔軟に時間調整します。
+また発表は掲載順ではないので気をつけてください。
+(Presentation order is random but for Keynote)
 
 Keynote: Brad Fitzpatrik (@bradfitz)
 ------------------------------------
@@ -139,6 +141,11 @@ golang on production（仮）
 ----------
 
 Go駆動開発で超速Pushエンジンを作った話
+
+@rui314
+-------
+
+標準パッケージから学ぶGoのベストプラクティス
 
 懇親会
 ------
