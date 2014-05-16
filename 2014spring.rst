@@ -119,7 +119,7 @@ TBA
 Dave Cheney (@davecheney)
 -------------------------
 
-Goのパフォーマンスの話かプロダクション投入した話（仮）
+Five features that make Go fast
 
 @_yosssi
 --------
