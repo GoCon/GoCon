@@ -101,8 +101,8 @@ http://connpass.com/event/6370/
 また発表は掲載順ではないので気をつけてください。
 (Presentation order is random but for Keynote)
 
-Keynote: Brad Fitzpatrik (@bradfitz)
-------------------------------------
+Keynote: Brad Fitzpatrik (@bradfitz) (45min)
+--------------------------------------------
 
 TBA
 
@@ -116,8 +116,8 @@ TBA
 
 プロダクション環境でGoを投入した話（仮）
 
-Dave Cheney (@davecheney)
--------------------------
+Dave Cheney (@davecheney) (30min)
+---------------------------------
 
 Five features that make Go fast
 
