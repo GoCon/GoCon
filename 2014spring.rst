@@ -125,7 +125,7 @@ Five features that make Go fast
 @_yosssi
 --------
 
-Martiniの話（仮）
+`Martini - Web framework for Go <http://slides.yoss.si/gocon/martini.html>`_
 
 @y_matsuwitter
 --------------
