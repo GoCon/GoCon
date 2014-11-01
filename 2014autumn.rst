@@ -141,6 +141,8 @@ Lightning Talk
 
 LTは1人5分程度を目安でお願いします。
 なお、質疑の時間は予定していません。
+また発表は掲載順ではないので気をつけてください。
+(Presentation order is random but for Keynote)
 
 .. 追記例
 .. 
