@@ -132,6 +132,10 @@ Keynote1: Rob Pike (@rob_pike) (45min)
 Keynote2: TBA
 --------------------------------------------
 
+@moriyoshit
+-----------
+TBA
+
 .. 追記例
 .. 
 .. @hogehoge
