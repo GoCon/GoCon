@@ -134,20 +134,36 @@ http://connpass.com/event/9748
 Keynote1: Rob Pike (@rob_pike) (45min)
 --------------------------------------------
 
-Keynote2: TBA
+Keynote2: @fumitoshi_ukai (45min)
 --------------------------------------------
 
-@moriyoshit
+TBA: @moriyoshit
 -----------
 TBA
 
-Why Go is so slow. @methane
+Why Go is so slow. :@methane
 ----------------------------
 内容は予定です。
 
 * プロファイラーの使い方
 * 速いGoコードの書き方
 * 将来のGoに期待すること
+
+TBA: Greg (変更になるかも)
+----------------------------
+TBA
+
+TBA: songum
+----------------------------
+TBA
+
+TBA: @qt_luigi
+----------------------------
+TBA
+
+GAE/Goの話(仮):@sinmetal
+----------------------
+TBA
 
 .. 追記例
 .. 
@@ -169,6 +185,9 @@ LTは1人5分程度を目安でお願いします。
 .. ________
 .. タイトルや概要、資料へのリンク
 
+TBA:@yukkuri_sinai
+----------------------
+TBA
 
 懇親会
 ------
