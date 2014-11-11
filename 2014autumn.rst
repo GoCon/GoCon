@@ -196,6 +196,10 @@ Terraformのpluginについて:@tkak
 ----------------------
 http://tkak.hatenablog.com/entry/2014/11/07/074044
 
+Goでビルドパイプラインツールを書いた話:ainoya
+--------------------------------------------
+ツール開発時のtipsや，ビルドジョブ間のメッセージパッシングをgoroutineで実装したことなどについて話したいです．(https://github.com/walter-cd/walter)
+
 懇親会
 ------
 
