@@ -164,6 +164,10 @@ GAE/Goの話(仮):@sinmetal
 ----------------------
 TBA
 
+TBA: @shawnps
+---------------------
+TBA
+
 .. 追記例
 .. 
 .. タイトル @hogehoge
@@ -199,6 +203,18 @@ http://tkak.hatenablog.com/entry/2014/11/07/074044
 Goでビルドパイプラインツールを書いた話:ainoya
 --------------------------------------------
 ツール開発時のtipsや，ビルドジョブ間のメッセージパッシングをgoroutineで実装したことなどについて話したいです．(https://github.com/walter-cd/walter)
+
+TBA:@yuroyoro
+-------------
+TBA
+
+nginx-build:@cubicdaiya
+------------------------
+Goでnginxのビルド自動化ツールを書いた話
+
+TBA:@yuya_takeyama
+----------------------
+「Go におけるユニットテストについて」 or 「Go でコマンドラインツールを作ることについて」
 
 懇親会
 ------
