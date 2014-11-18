@@ -83,14 +83,14 @@ http://connpass.com/event/9748
 お手伝い頂いている方々
 ----------------------
 
-:会場手配: @deeeet
 :受付（午前 09:30 - 10:00）: 未定
 :受付（午後 13:15 - 13:45）: 未定
+:会場手配: @deeeet
 
 なにかしら人手が必要になった時にお手伝いいただけたら嬉しいです。
 
 タイムスケジュール
-=================
+================================
 
 タイムスケジュールはあくまで目安です。
 当日の進み具合によって調整する場合があります。
@@ -136,41 +136,54 @@ Keynote1: Rob Pike (@rob_pike) (45min)
 Keynote2: @fumitoshi_ukai (45min)
 --------------------------------------------
 
-TBA: @moriyoshit
+@moriyoshit
 -----------
 TBA
 
-Why Go is so slow. :@methane
+@methane
 ----------------------------
-（内容は予定です。）
 
-* プロファイラーの使い方
-* 速いGoコードの書き方
-* 将来のGoに期待すること
+:タイトル:
+ Why Go is so slow.
 
-TBA: Greg 
+:内容（予定）:
+
+ * プロファイラーの使い方
+ * 速いGoコードの書き方
+ * 将来のGoに期待すること
+
+Greg 
 ----------------------------
 TBA
 
-TBA: songum
+songum
 ----------------------------
 TBA
 
-Golang JP Community: @qt_luigi
+@qt_luigi
 ------------------------------
-タイトルには二つの意味を込めました。私が管理メンバーをさせて頂いている「Golang JP Google+ コミュニティ」と、来日されたRob Pike氏への報告も兼ねて「日本のGoのコミュニティ活動」について、ご紹介させて頂きます。
 
-GAE/Goの話(仮):@sinmetal
+:タイトル:
+ Golang JP Community
+
+:内容:
+ タイトルには二つの意味を込めました。私が管理メンバーをさせて頂いている「Golang JP Google+ コミュニティ」と、来日されたRob Pike氏への報告も兼ねて「日本のGoのコミュニティ活動」について、ご紹介させて頂きます。
+
+@sinmetal
 ----------------------
+GAE/Goの話(仮)
+
+@ironzeb
+---------------------
 TBA
 
-TBA: @shawnps
----------------------
+@y_matsuwitter
+--------------
 TBA
 
 .. 追記例
 .. 
-.. タイトル @hogehoge
+.. @hogehoge
 .. ________
 .. タイトルや概要、資料へのリンク
 
@@ -188,33 +201,53 @@ LTは1人5分程度を目安でお願いします。
 .. ________
 .. タイトルや概要、資料へのリンク
 
-TBA:@yukkuri_sinai
+@yukkuri_sinai
 ----------------------
 TBA
 
-TBA:@nuki_pon
+@nuki_pon
 ----------------------
 TBA
 
-Terraformのpluginについて:@tkak
+@tkak
 ----------------------
-http://tkak.hatenablog.com/entry/2014/11/07/074044
+:タイトル:
+ Terraformのpluginについて
 
-Goでビルドパイプラインツールを書いた話:ainoya
+:内容:
+ http://tkak.hatenablog.com/entry/2014/11/07/074044
+
+ainoya
 --------------------------------------------
-ツール開発時のtipsや，ビルドジョブ間のメッセージパッシングをgoroutineで実装したことなどについて話したいです．(https://github.com/walter-cd/walter)
+:タイトル:
+ Goでビルドパイプラインツールを書いた話
+
+:内容:
+ ツール開発時のtipsや，ビルドジョブ間のメッセージパッシングをgoroutineで実装したことなどについて話したいです．(https://github.com/walter-cd/walter)
 
 TBA:@yuroyoro
 -------------
 TBA
 
-nginx-build:@cubicdaiya
+@cubicdaiya
 ------------------------
-Goでnginxのビルド自動化ツールを書いた話
+:タイトル:
+ nginx-build
 
-TBA:@yuya_takeyama
+:内容:
+ Goでnginxのビルド自動化ツールを書いた話
+
+@yuya_takeyama
 ----------------------
 「Go におけるユニットテストについて」 or 「Go でコマンドラインツールを作ることについて」
+
+@imkira85
+--------------------
+:タイトル:
+ 分散型システムをつくろう
+
+:内容:
+ etcd/consul/consistentを使ったものについて話します。
 
 懇親会
 ------
