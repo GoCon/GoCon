@@ -154,7 +154,14 @@ TBA
 
 Greg 
 ----------------------------
-TBA
+
+:タイトル:
+ NSQ-Centric Architecture
+
+:内容（予定）:
+
+ * Using NSQ to develop a distributed chat app
+ * Go + React + NSQ dream team
 
 @songmu
 ----------------------------
