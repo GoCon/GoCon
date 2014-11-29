@@ -171,7 +171,11 @@ TBA
 
 @sinmetal
 ----------------------
-GAE/Goの話(仮)
+:タイトル:
+ App Engine for Golang Performance
+
+:内容:
+ AppEngine for Golang Performance, Managed VMs for Golangについて話します。
 
 @ironzeb
 ---------------------
