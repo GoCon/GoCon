@@ -221,9 +221,13 @@ ainoya
 :内容:
  ツール開発時のtipsや，ビルドジョブ間のメッセージパッシングをgoroutineで実装したことなどについて話したいです．(https://github.com/walter-cd/walter)
 
-TBA:@yuroyoro
+@yuroyoro
 -------------
-TBA
+:タイトル:
+ go/parser, go/astの話
+
+:内容:
+ goの抽象構文木で遊ぶ話
 
 @cubicdaiya
 ------------------------
