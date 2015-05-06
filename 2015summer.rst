@@ -125,7 +125,7 @@ LT：5分（質疑応答なし）
 fkm             Goのパッケージ構成で試行錯誤してみた話
 sinmetal        AppEngine for Go Unittest
 y_matsuwitter   Golangで始めるハードウェアプログラミング
-takuma morikawa vendoring@golang
+takuma morikawa vendoring @ golang
 bash0C7         「Gopherになれ！」
 kyokomi         Go製の拡張可能なslackbot（仮）
 Ryuji IWATA     Goの使われ処
