@@ -127,7 +127,7 @@ deeeet                        Go言語でコマンドラインツールをつく
 Gabriel Aszalos               Patterns for building a scalable, testable web app in Go
 catatsuy                      ピクシブ社内広告サーバーでのGoの開発・運用
 ikawaha                       自己完結型の形態素解析器をgoで作った話
-サイバーエージェント 西尾様   TBA
+サイバーエージェント 西尾様   GOで基盤システムつくってる話
 ============================= =========================================================
 
 LT：5分（質疑応答なし）
